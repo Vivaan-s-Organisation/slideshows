@@ -1,1 +1,1 @@
-This is a slideshow website made by a new coder
+This is a slideshow website made by a new coder (me).
